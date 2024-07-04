@@ -1,0 +1,46 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# Version control
+.git/
+.gitignore
+.hg/
+.hgignore
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Environment and configuration files
+.env
+
+# Docker files
+Dockerfile
+docker-compose.yml
+
+# Temporary files
+tmp/
+*.tmp
+
+# Dependency files
+.pip/
+.mypy_cache/
+
+
+# Output videos
+Output_videos/
