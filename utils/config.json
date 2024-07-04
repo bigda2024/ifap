@@ -1,0 +1,4 @@
+{
+    "bootstrap_server": "ed-kafka:9092",
+    "topic": "game-data-src1"
+}

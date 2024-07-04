@@ -1,0 +1,4 @@
+{
+    "model_file": "models/best.pt",
+    "output_video": "output_videos/output_video.avi"
+}
