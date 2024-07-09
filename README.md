@@ -33,14 +33,16 @@ After setting up the environment, download the necessary files:
 
 1. Download the AI models:
    ```
-   wget localhost/models -O models/
+   wget 4.212.8.238/models -O models/
    ```
+   Alternatively, you can download the models manually from    [this link](http://4.212.8.238/models) and place them in the `models/` directory.
+
 
 2. Download the input videos:
    ```
-   wget localhost/input_videos -O input_videos/
+   wget 4.212.8.238/input_videos -O input_videos/
    ```
-
+   Alternatively, you can download the input videos manually from [this link](http://4.212.8.238/input_videos) and place them in the `input_videos/` directory.
 ---
 
 ## Nom du Projet
@@ -77,10 +79,12 @@ Après avoir configuré l'environnement, téléchargez les fichiers nécessaires
 
 1. Téléchargez les modèles d'IA :
    ```
-   wget localhost/models -O models/
+   wget 4.212.8.238/models -O models/
    ```
+   Alternativement, vous pouvez télécharger les modèles manuellement à partir de [ce lien](http://4.212.8.238/models) et les placer dans le répertoire `models/`.
 
 2. Téléchargez les vidéos d'entrée :
    ```
-   wget localhost/input_videos -O input_videos/
+   wget 4.212.8.238/input_videos -O input_videos/
    ```
+   Alternativement, vous pouvez télécharger les vidéos d'entrée manuellement à partir de [ce lien](http://4.212.8.238/input_videos) et les placer dans le répertoire `input_videos/`.
